@@ -3,11 +3,11 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://raw.githubusercontent.com/joinly-ai/assets/main/animations/logo-animations/joinly_logo_dark.gif"
+        srcset="https://raw.githubusercontent.com/joinly-ai/assets/main/animations/logo-animations/joinly_logo_dark_cropped.gif"
       >
       <img
         alt="Animated joinly.ai logo"
-        src="https://raw.githubusercontent.com/joinly-ai/assets/main/animations/logo-animations/joinly_logo_light.gif"
+        src="https://raw.githubusercontent.com/joinly-ai/assets/main/animations/logo-animations/joinly_logo_light_cropped.gif"
       >
     </picture>
   </a>
