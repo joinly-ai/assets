@@ -3,7 +3,7 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://raw.githubusercontent.com/joinly-ai/assets/main/animations/logo-animations/joinly_logo_dark_cropped.gif"
+        srcset="https://raw.githubusercontent.com/joinly-ai/assets/main/animations/logo-animations/joinly_logo_black_cropped.gif"
       >
       <img
         alt="Animated joinly.ai logo"
